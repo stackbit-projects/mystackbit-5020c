@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: A minimal blogging theme for Stackbit
 header:
-  title: Fjord
+  title: surlescocottes
   tagline: Minimal and clean blog theme
   logo_img: images/logo.png
   background_img: images/header-bg.jpg
