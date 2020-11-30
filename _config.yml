@@ -12,7 +12,7 @@ header:
   background_img: images/header-bg.jpg
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Accueil
       url: /
       style: link
     - label: About
